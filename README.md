@@ -8,7 +8,6 @@ in order to run this file you must need to complete some step. <br><br>
   pip install yt-dlp
   ```
 <br>
-  <li>Create a file named "videos" in same directory as this python file stored</li><br>
   <li>Run this file using below command</li><br>
 
   ```pip
