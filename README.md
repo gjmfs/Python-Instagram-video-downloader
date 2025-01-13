@@ -1,8 +1,18 @@
-<h1>Instagram Video Downloader</h1>
-You must install python and pip package in order to execute this file.<br>
-Also you must create a file named "videos" on the same directory of this python file stored.<br>
+<h1>Python Instagram Video Downloader</h1>
+in order to run this file you must need to complete some step. <br><br>
+<ol>
+  <li>Install python and pip package manager</li><br>
+  <li>Install pip packages</li><br>
+  
+  ```pip
+  pip install yt-dlp
+  ```
 <br>
+  <li>Create a file named "videos" in same directory as this python file stored</li><br>
+  <li>Run this file using below command</li><br>
 
-```pip
-pip install instaloader
-```
+  ```pip
+  python insta_vid.py.py
+  ```
+<br>
+</ol>
