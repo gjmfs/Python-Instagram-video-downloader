@@ -5,7 +5,7 @@ in order to run this file you must need to complete some step. <br><br>
   <li>Install pip packages</li><br>
   
   ```pip
-  pip install yt-dlp
+  pip install instaloader
   ```
 <br>
   <li>Run this file using below command</li><br>
